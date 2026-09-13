@@ -1,0 +1,5 @@
+agyx.exe
+*.exe
+*.bak
+dist/
+.vscode/
